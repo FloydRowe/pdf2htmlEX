@@ -7,8 +7,8 @@ server/prosody.err
 server/prosody.log
 server/prosody.pid
 
-!.gitkeep
-!.editorconfig
+*.gitkeep
+ .editorconfig
 !.gitignore
 !.travis.yml
 
@@ -16,3 +16,4 @@ npm-debug.log
 lerna-debug.log
 
 .eslintcache
+ 
